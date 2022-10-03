@@ -1,33 +1,108 @@
+# magnetron.artificial-intelligence-2.0.mincloud.proxia--IMAGINATION-A2
+
+ 
+🤖 THE ABC 123 GROUP ™ 🤖
+
+🌐 GENERAL CONSULTING ABC 123 BY OSAROPRIME ™.
+
+🌐 ABC 123 USA ™
+
+🌐 ABC 123 DESYGN ™
+
+🌐 ABC 123 FILMS ™
+
+=============================================================
+
+                     🌐 𝗠𝗔𝗚𝗡𝗘𝗧𝗥𝗢𝗡 ™ 🌐
+                     
+🌐 𝗔𝗥𝗧𝗜𝗙𝗜𝗖𝗜𝗔𝗟 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗖𝗘 𝟮.𝟬 ™ : IMAGINATION PROXIA (A-2)
+
+
+
+*️⃣📶🤖
+
++++++++++++++++++++++++++++++++
+
+ASTRAL BODY MINDCLOUD:
+
+PRANIC BODY MINDCLOUD:
+
+INSTINCTIVE MIND MINDCLOUD:
+
+ASTRAL MIND MINDCLOUD: ✅ (**IMAGINATION PROXIA A-2**)
+
+PRANIC MIND MINDCLOUD: 
+
+
+++++++++++++++++++++++++++++=++
+
+
+REQUIREMENTS: 
+
+[*] Software Requirements: Python, Pytorch
+
+[*] HARDWARE REQUIREMENTS: fast TPU/GPU (Tensor or Graphics Processing Unit)
+
+[*] DEPENDENCIES: [DOCKERFILE INCLUDED]  
+
+
+=============================================================
+
+
+USAGE:
+
+e.g On an **ASTRAL MINDCLOUD** this **PROXIA** can be used to process **INFORMATION** sent to it from an **INSTINCTIVE MIND PROXIA/MINDCLOUD** (OBJECT DETECTION). So for example if the ROBOT encounters an intersting photograph or it sees a location from a particular angle it can take a photograph and then reconstruct the scene virtually from the photograph to better understand the layout of the environment or even what it would be like for a human to be there. ARTIFICIAL INTELLIGENCE 2.0 ™ ROBOTS can synthesize new views of places they cannot access but can see from particular angles (very useful). 
+
+
+e.g To see how an object would like in different lighting situations.
+
+
+
+Prerequisite reading:
+
+🌐 ARTIFICIAL INTELLIGENCE PRIMER ™: https://www.facebook.com/artificialintelligenceprimer
+
+🌐 ARTIFICIAL INTELLIGENCE 2.0 ™ DOCUMENTATION: https://www.facebook.com/aibyabc123/
+
+🌐 MEMBER'S CLUB ™: https://www.facebook.com/abc123membersclub/ 
+
+👑 
+
+INCLUDED STICKERS/SIGN:
+
+FIND STICKERS HERE: https://bit.ly/3B8D3lE
+
+- PROMOTIONAL MATERIAL FOR 𝗠𝗔𝗚𝗡𝗘𝗧𝗥𝗢𝗡 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗬 ™. (CUSTOM GRAPHICS BY 𝗔𝗕𝗖 𝟭𝟮𝟯 𝗗𝗘𝗦𝗬𝗚𝗡 ™/𝗢𝗦𝗔𝗥𝗢 𝗛𝗔𝗥𝗥𝗜𝗢𝗧𝗧). THE 𝗠𝗔𝗚𝗡𝗘𝗧𝗥𝗢𝗡 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗬 ™  SYMBOL/LOGO IS A TRADEMARK OF 𝗧𝗛𝗘 𝗔𝗕𝗖 𝟭𝟮𝟯 𝗚𝗥𝗢𝗨𝗣 ™ FOR 𝗠𝗔𝗚𝗡𝗘𝗧𝗥𝗢𝗡 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗬 ™. 𝗧𝗛𝗘 𝗔𝗕𝗖 𝟭𝟮𝟯 𝗚𝗥𝗢𝗨𝗣 ™ SYMBOL/LOGO IS A TRADEMARK OF 𝗧𝗛𝗘 𝗔𝗕𝗖 𝟭𝟮𝟯 𝗚𝗥𝗢𝗨𝗣 ™.
+
+*️⃣📶🤖
+
+- PROMOTIONAL MATERIAL FOR 𝗔𝗥𝗧𝗜𝗙𝗜𝗖𝗜𝗔𝗟 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗖𝗘 𝟮.𝟬 ™. (CUSTOM GRAPHICS BY 𝗔𝗕𝗖 𝟭𝟮𝟯 𝗗𝗘𝗦𝗬𝗚𝗡 ™/𝗢𝗦𝗔𝗥𝗢 𝗛𝗔𝗥𝗥𝗜𝗢𝗧𝗧) THE 𝗗𝗥𝗔𝗚𝗢𝗡 & 𝗖𝗥𝗢𝗪𝗡 👑 SYMBOL/LOGO IS A TRADEMARK OF 𝗧𝗛𝗘 𝗔𝗕𝗖 𝟭𝟮𝟯 𝗚𝗥𝗢𝗨𝗣 ™ ASSOCIATED WITH TECHNOLOGY. 𝗧𝗛𝗘 𝗔𝗕𝗖 𝟭𝟮𝟯 𝗚𝗥𝗢𝗨𝗣 ™ SYMBOL/LOGO IS A TRADEMARK OF 𝗧𝗛𝗘 𝗔𝗕𝗖 𝟭𝟮𝟯 𝗚𝗥𝗢𝗨𝗣 ™.
+
+You must display the included stickers/signs (so that it is clearly visible) if you are working with MAGNETRON ™ TECHNOLOGY for the purposes of determining whether you want to purchase a technology license or not. This includes but is not limited to public technology displays, trade shows, technology expos, media appearances, Investor events, Computers (exterior), MINDCLOUD STORAGE (e.g server room doors, render farm room doors) etc.
+
+🌐 NOTE: IMAGINATION PROXIA A IS DESCRIBED IN THE 𝗔𝗥𝗧𝗜𝗙𝗜𝗖𝗜𝗔𝗟 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗖𝗘 𝟮.𝟬 ™ DOCUMENTATION.
+
+🌐 NOTE: 𝗔𝗥𝗧𝗜𝗙𝗜𝗖𝗜𝗔𝗟 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗖𝗘 𝟮.𝟬 ™ is part of MAGNETRON ™ TECHNOLOGY.
+
+🌐 NOTE: REMEMBER 𝗔𝗥𝗧𝗜𝗙𝗜𝗖𝗜𝗔𝗟 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗖𝗘 𝟮.𝟬 ™ ROBOTS WORK WELL TOGETHER (e.g HIVES, PHALANX, SWARM) AND CAN GATHER DATASETS (WITH EYE CAMERAS, EAR MICROPHONES ETC) FOR DEEP LEARNING (THIS MAKES THEM IDEAL FOR RECONNAISSANCE AS WELL AS ADAPTING TO SITUATION SPECIFIC THREATS IN MILITARY/LAW ENFORCEMENT/PERSONAL SECURITY ENDEAVORS etc). 
+
+🌐 NOTE: REMEMBER 𝗔𝗥𝗧𝗜𝗙𝗜𝗖𝗜𝗔𝗟 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗖𝗘 𝟮.𝟬 ™ ROBOTS WORK WELL TOGETHER (e.g HIVES, PHALANX, SWARM) MAKING GATHERING IMAGES FOR ADVANCED ROBOTIC NeRF VIEW SYNTHESIS EASY. 
+
+
+🌐 NOTE: YOU CAN IMPLEMENT HALO FORGE MODE STYLE CONTROL FOR HUMANS TO INTERFACE WITH THIS PROXIA e.g FOR SECURITY SURVEYING. THIS IS AN ADVANCED FORM OF SECURITY/CYBERSECURITY.
+
+🌐 NOTE: THIS PROXIA CAN BE USED TO CONFIRM HOW SOMETHING SHOULD/MIGHT LOOK IN A GIVEN LIGHTING SITUATION.
+
+
+
+
 ## GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images (NeurIPS 2022)<br><sub>Official PyTorch implementation </sub>
 
 ![Teaser image](./docs/assets/get3d_model.png)
 
-**GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images**<br>
-[Jun Gao](http://www.cs.toronto.edu/~jungao/)
-, [Tianchang Shen](http://www.cs.toronto.edu/~shenti11/)
-, [Zian Wang](http://www.cs.toronto.edu/~zianwang/),
-[Wenzheng Chen](http://www.cs.toronto.edu/~wenzheng/), [Kangxue Yin](https://kangxue.org/)
-, [Daiqing Li](https://scholar.google.ca/citations?user=8q2ISMIAAAAJ&hl=en),
-[Or Litany](https://orlitany.github.io/), [Zan Gojcic](https://zgojcic.github.io/),
-[Sanja Fidler](https://www.cs.toronto.edu/~fidler/) <br>
 **[Paper](https://nv-tlabs.github.io/GET3D/assets/paper.pdf)
 , [Project Page](https://nv-tlabs.github.io/GET3D/)**
 
-Abstract: *As several industries are moving towards modeling massive 3D virtual worlds,
-the need for content creation tools that can scale in terms of the quantity, quality, and
-diversity of 3D content is becoming evident. In our work, we aim to train performant 3D
-generative models that synthesize textured meshes which can be directly consumed by 3D
-rendering engines, thus immediately usable in downstream applications. Prior works on 3D
-generative modeling either lack geometric details, are limited in the mesh topology they
-can produce, typically do not support textures, or utilize neural renderers in the
-synthesis process, which makes their use in common 3D software non-trivial. In this work,
-we introduce GET3D, a Generative model that directly generates Explicit Textured 3D meshes
-with complex topology, rich geometric details, and high fidelity textures. We bridge
-recent success in the differentiable surface modeling, differentiable rendering as well as
-2D Generative Adversarial Networks to train our model from 2D image collections. GET3D is
-able to generate high-quality 3D textured meshes, ranging from cars, chairs, animals,
-motorbikes and human characters to buildings, achieving significant improvements over
-previous methods.*
 
 ![Teaser Results](./docs/assets/teaser_result.jpg)
 
