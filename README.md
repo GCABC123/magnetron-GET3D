@@ -101,9 +101,6 @@ You must display the included stickers/signs (so that it is clearly visible) if 
 
 ![Teaser image](./docs/assets/get3d_model.png)
 
-**[Paper](https://nv-tlabs.github.io/GET3D/assets/paper.pdf)
-, [Project Page](https://nv-tlabs.github.io/GET3D/)**
-
 
 ![Teaser Results](./docs/assets/teaser_result.jpg)
 
