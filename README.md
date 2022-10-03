@@ -17,6 +17,7 @@
                      
 🌐 𝗔𝗥𝗧𝗜𝗙𝗜𝗖𝗜𝗔𝗟 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗖𝗘 𝟮.𝟬 ™ : IMAGINATION PROXIA (A-2)
 
+For making an IMAGINATION PROXIA that generates a 3D representation of of an object detected in an IMAGE.
 
 
 *️⃣📶🤖
