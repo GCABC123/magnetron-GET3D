@@ -109,13 +109,14 @@ form: [NVIDIA Research Licensing](https://www.nvidia.com/en-us/research/inquirie
 
 ## News
 
+- 2022-10-13: Pretrained model on Shapenet released! Check more details [here](./pretrained_model)
 - 2022-09-29: Code released!
 - 2022-09-22: Code will be uploaded next week!
 
 ## Requirements
 
 * We recommend Linux for performance and compatibility reasons.
-* 8 high-end NVIDIA GPUs. We have done all testing and development using V100 or A100
+* 1 &ndash; 8 high-end NVIDIA GPUs. We have done all testing and development using V100 or A100
   GPUs.
 * 64-bit Python 3.8 and PyTorch 1.9.0. See https://pytorch.org for PyTorch install
   instructions.
@@ -152,7 +153,7 @@ render it.
 #### Clone the gitlab code and necessary files:
 
 ```bash
-cd YOUR_CODE_PARH
+cd YOUR_CODE_PATH
 git clone git@github.com:nv-tlabs/GET3D.git
 cd GET3D; mkdir cache; cd cache
 wget https://api.ngc.nvidia.com/v2/models/nvidia/research/stylegan3/versions/1/files/metrics/inception-2015-12-05.pkl
@@ -175,7 +176,7 @@ python train_3d.py --outdir=PATH_TO_LOG --data=PATH_TO_RENDER_IMG --camera_path 
 python train_3d.py --outdir=PATH_TO_LOG --data=PATH_TO_RENDER_IMG --camera_path PATH_TO_RENDER_CAMERA --gpus=8 --batch=32 --gamma=400 --data_camera_mode shapenet_chair  --dmtet_scale 0.8  --use_shapenet_split 1  --one_3d_generator 1  --fp32 0
 ```
 
-- If want to train on seperate generators (main Figure in the paper):
+- If want to train on separate generators (main Figure in the paper):
 
 ```bash
 python train_3d.py --outdir=PATH_TO_LOG --data=PATH_TO_RENDER_IMG --camera_path PATH_TO_RENDER_CAMERA --gpus=8 --batch=32 --gamma=40 --data_camera_mode shapenet_car  --dmtet_scale 1.0  --use_shapenet_split 1  --one_3d_generator 0
@@ -193,6 +194,7 @@ If want to debug the model first, reduce the number of gpus to 1 and batch size 
 
 ### Inference on a pretrained model for visualization
 
+- Download pretrained model from [here](https://drive.google.com/drive/folders/1oJ-FmyVYjIwBZKDAQ4N1EEcE9dJjumdW?usp=sharing).
 - Inference could operate on a single GPU with 16 GB memory.
 
 ```bash
@@ -207,7 +209,7 @@ python train_3d.py --outdir=save_inference_results/shapenet_motorbike  --gpus=1 
 - To generate the results with latent code interpolation, add one option to the inference
   command: `--inference_save_interpolation 1`
 
-### Evluation metrics
+### Evaluation metrics
 
 ##### Compute FID
 
@@ -235,6 +237,7 @@ GET3D builds upon several previous works:
 - [Learning Deformable Tetrahedral Meshes for 3D Reconstruction (NeurIPS 2020)](https://nv-tlabs.github.io/DefTet/)
 - [Deep Marching Tetrahedra: a Hybrid Representation for High-Resolution 3D Shape Synthesis (NeurIPS 2021)](https://nv-tlabs.github.io/DMTet/)
 - [Extracting Triangular 3D Models, Materials, and Lighting From Images (CVPR 2022)](https://nvlabs.github.io/nvdiffrec/)
+- [EG3D: Efficient Geometry-aware 3D Generative Adversarial Networks (CVPR 2022)](https://nvlabs.github.io/eg3d/)
 - [DIB-R++: Learning to Predict Lighting and Material with a Hybrid Differentiable Renderer (NeurIPS 2021)](https://nv-tlabs.github.io/DIBRPlus/)
 - [Nvdiffrast – Modular Primitives for High-Performance Differentiable Rendering (SIGRAPH Asia 2020)](https://nvlabs.github.io/nvdiffrast/)
 
